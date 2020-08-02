@@ -4,5 +4,8 @@ public class Hello{
         
         System.out.println("GiirrrMaster add line");
         
+        System.out.println("이거 지우면, 코로나19 걸림");
+        
+        
     }
 }
