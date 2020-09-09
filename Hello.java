@@ -6,7 +6,5 @@ public class Hello{
         
         System.out.println("Juno Test");
         System.out.println("Pull request Test");
-
-        System.out.println("GitHub DeskTop Test");
     }
 }
