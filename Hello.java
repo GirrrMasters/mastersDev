@@ -4,5 +4,7 @@ public class Hello{
         
         System.out.println("GiirrrMaster add line");
         
+        System.out.println("Juno Test");
+        
     }
 }
